@@ -1,3 +1,1 @@
-# API package initialization
-
-__all__ = []
+# __init__.py for api package
