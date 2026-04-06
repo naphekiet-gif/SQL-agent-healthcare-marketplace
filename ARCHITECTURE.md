@@ -1,24 +1,26 @@
-# Architecture Documentation
+# Workflow Documentation
 
-## Overview
-This document provides comprehensive workflow architecture for the SQL Agent Healthcare Marketplace. It includes details on nodes, edges, and metadata/database connections within the workflow.
+## System Architecture
+
+- Overview of the architectural components of the system.
 
 ## Nodes
-- **Node A:** Description of Node A functionality.
-- **Node B:** Description of Node B functionality.
-- **Node C:** Description of Node C functionality.
+
+- Description of nodes involved in the architecture and their roles.
 
 ## Edges
-- **Edge A to B:** Describes the connection from Node A to Node B.
-- **Edge B to C:** Describes the connection from Node B to Node C.
 
-## Metadata/Database Connections
-- **Connection 1:** Description of the first metadata/database connection.
-- **Connection 2:** Description of the second metadata/database connection.
+- Information on connections between nodes and how they communicate.
 
-## Visual Diagrams
-- ![Node and Edge Diagram](link_to_diagram_1)
-- ![Metadata/Database Connection Diagram](link_to_diagram_2)
+## Metadata
 
-## Conclusion
-This architecture is designed to ensure efficient data flow and process optimization across the SQL Agent Healthcare Marketplace.
+- Details on metadata used within the system, including data formats and definitions.
+
+## Database Connections
+
+- Explanation of database connections, including technologies used and connection methods.
+
+
+**Last updated:** 2026-04-06 00:52:24 UTC
+
+**Contributors:** naphekiet-gif
